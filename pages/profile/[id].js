@@ -1,5 +1,5 @@
 import ProfilePage from "../profile";
 
-export default function Profile() {
+export default function Id() {
   return <ProfilePage />
 }
